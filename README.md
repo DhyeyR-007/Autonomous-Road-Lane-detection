@@ -20,4 +20,4 @@ Larger derivatives = High intensity and vice-versa.
 Sample output photo:
 ![image](https://user-images.githubusercontent.com/86003669/123514365-53982480-d6b0-11eb-92dc-5e7d3f3ad0e9.png)
 
-You can also access the whole output video int te files uploaded
+You can also access the whole output video clearly in the files uploaded.
