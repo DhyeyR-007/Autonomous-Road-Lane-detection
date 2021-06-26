@@ -17,4 +17,7 @@ Larger derivatives = High intensity and vice-versa.
 6. Hough Line Transform: The Probabilistic Hough Line Transform is used, which provides output as the extremes of the detected lines. (Basically used to detect straight lines.)
 
 
+Sample output photo:
+![image](https://user-images.githubusercontent.com/86003669/123514365-53982480-d6b0-11eb-92dc-5e7d3f3ad0e9.png)
 
+You can also access the whole output video int te files uploaded
